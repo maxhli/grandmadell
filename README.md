@@ -11,3 +11,5 @@ CPU:
 RAM:
 Hard drive:
 
+How is laptop different from desktop?
+
