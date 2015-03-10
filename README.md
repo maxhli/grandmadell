@@ -7,9 +7,9 @@ Can you open the case and tell me the difference between modern day laptops and 
 
 You need to list component by component comparison.
 
-CPU:
-RAM:
-Hard drive:
+CPU: manufactuer? More information.
+RAM: How big, who made it?
+Hard drive: How big in terms of storage space? who made it?
 
 How is laptop different from desktop?
 
